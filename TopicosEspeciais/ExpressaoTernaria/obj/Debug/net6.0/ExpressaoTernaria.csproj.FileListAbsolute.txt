@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\bin\Debug\net6.0\ExpressaoTernaria.exe
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\bin\Debug\net6.0\ExpressaoTernaria.deps.json
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\bin\Debug\net6.0\ExpressaoTernaria.runtimeconfig.json
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\bin\Debug\net6.0\ExpressaoTernaria.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\bin\Debug\net6.0\ExpressaoTernaria.pdb
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\obj\Debug\net6.0\ExpressaoTernaria.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\obj\Debug\net6.0\ExpressaoTernaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\obj\Debug\net6.0\ExpressaoTernaria.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\obj\Debug\net6.0\ExpressaoTernaria.AssemblyInfo.cs
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\obj\Debug\net6.0\ExpressaoTernaria.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\obj\Debug\net6.0\ExpressaoTernaria.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\obj\Debug\net6.0\refint\ExpressaoTernaria.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\obj\Debug\net6.0\ExpressaoTernaria.pdb
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\obj\Debug\net6.0\ExpressaoTernaria.genruntimeconfig.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\ExpressaoTernaria\obj\Debug\net6.0\ref\ExpressaoTernaria.dll

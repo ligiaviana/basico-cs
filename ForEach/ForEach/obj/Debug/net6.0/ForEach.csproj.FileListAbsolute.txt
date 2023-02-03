@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\ForEach\ForEach\bin\Debug\net6.0\ForEach.exe
+C:\Windows\Temp\projetos\ForEach\ForEach\bin\Debug\net6.0\ForEach.deps.json
+C:\Windows\Temp\projetos\ForEach\ForEach\bin\Debug\net6.0\ForEach.runtimeconfig.json
+C:\Windows\Temp\projetos\ForEach\ForEach\bin\Debug\net6.0\ForEach.dll
+C:\Windows\Temp\projetos\ForEach\ForEach\bin\Debug\net6.0\ForEach.pdb
+C:\Windows\Temp\projetos\ForEach\ForEach\obj\Debug\net6.0\ForEach.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\ForEach\ForEach\obj\Debug\net6.0\ForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\ForEach\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\ForEach\ForEach\obj\Debug\net6.0\ForEach.AssemblyInfo.cs
+C:\Windows\Temp\projetos\ForEach\ForEach\obj\Debug\net6.0\ForEach.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\ForEach\ForEach\obj\Debug\net6.0\ForEach.dll
+C:\Windows\Temp\projetos\ForEach\ForEach\obj\Debug\net6.0\refint\ForEach.dll
+C:\Windows\Temp\projetos\ForEach\ForEach\obj\Debug\net6.0\ForEach.pdb
+C:\Windows\Temp\projetos\ForEach\ForEach\obj\Debug\net6.0\ForEach.genruntimeconfig.cache
+C:\Windows\Temp\projetos\ForEach\ForEach\obj\Debug\net6.0\ref\ForEach.dll

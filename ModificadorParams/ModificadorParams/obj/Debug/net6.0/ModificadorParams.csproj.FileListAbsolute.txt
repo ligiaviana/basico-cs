@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\bin\Debug\net6.0\ModificadorParams.exe
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\bin\Debug\net6.0\ModificadorParams.deps.json
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\bin\Debug\net6.0\ModificadorParams.runtimeconfig.json
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\bin\Debug\net6.0\ModificadorParams.dll
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\bin\Debug\net6.0\ModificadorParams.pdb
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.AssemblyInfo.cs
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.dll
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\obj\Debug\net6.0\refint\ModificadorParams.dll
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.pdb
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ModificadorParams.genruntimeconfig.cache
+C:\Windows\Temp\projetos\ModificadorParams\ModificadorParams\obj\Debug\net6.0\ref\ModificadorParams.dll

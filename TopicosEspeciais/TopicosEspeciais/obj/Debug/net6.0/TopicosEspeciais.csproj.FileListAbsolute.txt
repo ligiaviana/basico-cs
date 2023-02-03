@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\bin\Debug\net6.0\TopicosEspeciais.exe
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\bin\Debug\net6.0\TopicosEspeciais.deps.json
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\bin\Debug\net6.0\TopicosEspeciais.runtimeconfig.json
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\bin\Debug\net6.0\TopicosEspeciais.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\bin\Debug\net6.0\TopicosEspeciais.pdb
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.AssemblyInfo.cs
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\refint\TopicosEspeciais.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.pdb
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\TopicosEspeciais.genruntimeconfig.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\TopicosEspeciais\obj\Debug\net6.0\ref\TopicosEspeciais.dll

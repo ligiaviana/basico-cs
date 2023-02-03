@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\Struct\Struct\bin\Debug\net6.0\Struct.exe
+C:\Windows\Temp\projetos\Struct\Struct\bin\Debug\net6.0\Struct.deps.json
+C:\Windows\Temp\projetos\Struct\Struct\bin\Debug\net6.0\Struct.runtimeconfig.json
+C:\Windows\Temp\projetos\Struct\Struct\bin\Debug\net6.0\Struct.dll
+C:\Windows\Temp\projetos\Struct\Struct\bin\Debug\net6.0\Struct.pdb
+C:\Windows\Temp\projetos\Struct\Struct\obj\Debug\net6.0\Struct.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\Struct\Struct\obj\Debug\net6.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\Struct\Struct\obj\Debug\net6.0\Struct.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\Struct\Struct\obj\Debug\net6.0\Struct.AssemblyInfo.cs
+C:\Windows\Temp\projetos\Struct\Struct\obj\Debug\net6.0\Struct.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\Struct\Struct\obj\Debug\net6.0\Struct.dll
+C:\Windows\Temp\projetos\Struct\Struct\obj\Debug\net6.0\refint\Struct.dll
+C:\Windows\Temp\projetos\Struct\Struct\obj\Debug\net6.0\Struct.pdb
+C:\Windows\Temp\projetos\Struct\Struct\obj\Debug\net6.0\Struct.genruntimeconfig.cache
+C:\Windows\Temp\projetos\Struct\Struct\obj\Debug\net6.0\ref\Struct.dll

@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\Listas\Teste2\bin\Debug\net6.0\Teste2.exe
+C:\Windows\Temp\projetos\Listas\Teste2\bin\Debug\net6.0\Teste2.deps.json
+C:\Windows\Temp\projetos\Listas\Teste2\bin\Debug\net6.0\Teste2.runtimeconfig.json
+C:\Windows\Temp\projetos\Listas\Teste2\bin\Debug\net6.0\Teste2.dll
+C:\Windows\Temp\projetos\Listas\Teste2\bin\Debug\net6.0\Teste2.pdb
+C:\Windows\Temp\projetos\Listas\Teste2\obj\Debug\net6.0\Teste2.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\Listas\Teste2\obj\Debug\net6.0\Teste2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\Listas\Teste2\obj\Debug\net6.0\Teste2.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\Listas\Teste2\obj\Debug\net6.0\Teste2.AssemblyInfo.cs
+C:\Windows\Temp\projetos\Listas\Teste2\obj\Debug\net6.0\Teste2.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\Listas\Teste2\obj\Debug\net6.0\Teste2.dll
+C:\Windows\Temp\projetos\Listas\Teste2\obj\Debug\net6.0\refint\Teste2.dll
+C:\Windows\Temp\projetos\Listas\Teste2\obj\Debug\net6.0\Teste2.pdb
+C:\Windows\Temp\projetos\Listas\Teste2\obj\Debug\net6.0\Teste2.genruntimeconfig.cache
+C:\Windows\Temp\projetos\Listas\Teste2\obj\Debug\net6.0\ref\Teste2.dll

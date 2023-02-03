@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\bin\Debug\net6.0\RefEOut.exe
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\bin\Debug\net6.0\RefEOut.deps.json
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\bin\Debug\net6.0\RefEOut.runtimeconfig.json
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\bin\Debug\net6.0\RefEOut.dll
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\bin\Debug\net6.0\RefEOut.pdb
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\obj\Debug\net6.0\RefEOut.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\obj\Debug\net6.0\RefEOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\obj\Debug\net6.0\RefEOut.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\obj\Debug\net6.0\RefEOut.AssemblyInfo.cs
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\obj\Debug\net6.0\RefEOut.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\obj\Debug\net6.0\RefEOut.dll
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\obj\Debug\net6.0\refint\RefEOut.dll
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\obj\Debug\net6.0\RefEOut.pdb
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\obj\Debug\net6.0\RefEOut.genruntimeconfig.cache
+C:\Windows\Temp\projetos\ModificadorParams\RefEOut\obj\Debug\net6.0\ref\RefEOut.dll

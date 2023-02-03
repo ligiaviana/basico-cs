@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\bin\Debug\net6.0\FuncoesStrings.exe
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\bin\Debug\net6.0\FuncoesStrings.deps.json
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\bin\Debug\net6.0\FuncoesStrings.runtimeconfig.json
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\bin\Debug\net6.0\FuncoesStrings.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\bin\Debug\net6.0\FuncoesStrings.pdb
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.AssemblyInfo.cs
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\obj\Debug\net6.0\refint\FuncoesStrings.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.pdb
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\obj\Debug\net6.0\FuncoesStrings.genruntimeconfig.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\FuncoesStrings\obj\Debug\net6.0\ref\FuncoesStrings.dll

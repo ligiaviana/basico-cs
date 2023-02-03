@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\bin\Debug\net6.0\PropriedadesEOperacoesComTimeSpan.exe
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\bin\Debug\net6.0\PropriedadesEOperacoesComTimeSpan.deps.json
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\bin\Debug\net6.0\PropriedadesEOperacoesComTimeSpan.runtimeconfig.json
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\bin\Debug\net6.0\PropriedadesEOperacoesComTimeSpan.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\bin\Debug\net6.0\PropriedadesEOperacoesComTimeSpan.pdb
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\obj\Debug\net6.0\PropriedadesEOperacoesComTimeSpan.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\obj\Debug\net6.0\PropriedadesEOperacoesComTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\obj\Debug\net6.0\PropriedadesEOperacoesComTimeSpan.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\obj\Debug\net6.0\PropriedadesEOperacoesComTimeSpan.AssemblyInfo.cs
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\obj\Debug\net6.0\PropriedadesEOperacoesComTimeSpan.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\obj\Debug\net6.0\PropriedadesEOperacoesComTimeSpan.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\obj\Debug\net6.0\refint\PropriedadesEOperacoesComTimeSpan.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\obj\Debug\net6.0\PropriedadesEOperacoesComTimeSpan.pdb
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\obj\Debug\net6.0\PropriedadesEOperacoesComTimeSpan.genruntimeconfig.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\PropriedadesEOperacoesComTimeSpan\obj\Debug\net6.0\ref\PropriedadesEOperacoesComTimeSpan.dll

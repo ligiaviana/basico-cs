@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\bin\Debug\net6.0\DateTimeKind.exe
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\bin\Debug\net6.0\DateTimeKind.deps.json
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\bin\Debug\net6.0\DateTimeKind.runtimeconfig.json
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\bin\Debug\net6.0\DateTimeKind.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\bin\Debug\net6.0\DateTimeKind.pdb
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\obj\Debug\net6.0\DateTimeKind.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\obj\Debug\net6.0\DateTimeKind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\obj\Debug\net6.0\DateTimeKind.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\obj\Debug\net6.0\DateTimeKind.AssemblyInfo.cs
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\obj\Debug\net6.0\DateTimeKind.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\obj\Debug\net6.0\DateTimeKind.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\obj\Debug\net6.0\refint\DateTimeKind.dll
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\obj\Debug\net6.0\DateTimeKind.pdb
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\obj\Debug\net6.0\DateTimeKind.genruntimeconfig.cache
+C:\Windows\Temp\projetos\TopicosEspeciais\DateTimeKind\obj\Debug\net6.0\ref\DateTimeKind.dll

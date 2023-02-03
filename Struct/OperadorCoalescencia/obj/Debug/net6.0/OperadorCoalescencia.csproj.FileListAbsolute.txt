@@ -1,0 +1,15 @@
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\bin\Debug\net6.0\OperadorCoalescencia.exe
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\bin\Debug\net6.0\OperadorCoalescencia.deps.json
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\bin\Debug\net6.0\OperadorCoalescencia.runtimeconfig.json
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\bin\Debug\net6.0\OperadorCoalescencia.dll
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\bin\Debug\net6.0\OperadorCoalescencia.pdb
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\obj\Debug\net6.0\OperadorCoalescencia.csproj.AssemblyReference.cache
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\obj\Debug\net6.0\OperadorCoalescencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\obj\Debug\net6.0\OperadorCoalescencia.AssemblyInfoInputs.cache
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\obj\Debug\net6.0\OperadorCoalescencia.AssemblyInfo.cs
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\obj\Debug\net6.0\OperadorCoalescencia.csproj.CoreCompileInputs.cache
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\obj\Debug\net6.0\OperadorCoalescencia.dll
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\obj\Debug\net6.0\refint\OperadorCoalescencia.dll
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\obj\Debug\net6.0\OperadorCoalescencia.pdb
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\obj\Debug\net6.0\OperadorCoalescencia.genruntimeconfig.cache
+C:\Windows\Temp\projetos\Struct\OperadorCoalescencia\obj\Debug\net6.0\ref\OperadorCoalescencia.dll
